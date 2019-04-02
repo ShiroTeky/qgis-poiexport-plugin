@@ -1,0 +1,7 @@
+Adding the library colorhash to create a semiological chart and differentiate POI group by color. 
+like this https://github.com/ShiroTeky/poiexport-colorhash
+example:
+<wpt lat="9.540402636345116" lon="-13.677894977337266">
+<name>22020</name>
+<extensions><color>#d279a1</color></extensions>
+</wpt>
